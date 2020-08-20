@@ -1,1 +1,44 @@
-
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    font-family:'oxygen';
+}
+#navbar-header{
+    background-color:rgb(161, 161, 161);
+}
+.navbar-brand h2{
+    margin:-5px;
+    color:black;
+    padding:5px;
+}
+.navbar-brand a:hover{
+    text-decoration:none;
+    text-shadow:1px 1px 1px white;
+    
+}
+.container{
+    width:100%;
+    
+}
+.row{
+    margin:10px;
+}
+#chicken-tile{
+    background-color:#999999;
+    padding:1px 20px 20px 20px;
+    margin:10px;
+    
+}
+#beef-tile{
+    background-color:#999999;
+    padding:1px 20px 20px 20px;
+   margin:10px;
+}
+#sushi-tile{
+    background-color:#999999;
+    padding:1px 20px 20px 20px;
+    margin:10px;
+    
+}
